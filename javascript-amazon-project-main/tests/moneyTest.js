@@ -6,7 +6,7 @@ function formatCurrency(priceCents) {
 // Basic Test Cases
 console.log('test suite: formatCurrency');
 
-console.log('converts into dollars');
+console.log('converts into dollars')
 
 if (formatCurrency(2095) === '20.95') {
     console.log('passed');
